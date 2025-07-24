@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment files and folders
+.env
+*.env
+.venv/
+venv/
+env/
+*.conda
+
+# PyCharm project files
+.idea/
+
+# System-specific
+.DS_Store
+
+# Optional: Ignore Streamlit cache and config files
+.streamlit/
+
+# Optional: Ignore data files if they are generated or sensitive
+Data/*.json
