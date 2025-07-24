@@ -23,7 +23,9 @@ A simple, clean, and fast **Streamlit** web app that helps generate thoughtful a
 
 ---
 
-## How to Run Locally
+## Setup
+
+To get started we first need to get an API_KEY from here: https://console.groq.com/keys. Inside .env update the value of GROQ_API_KEY with the API_KEY you created.
 
 ```bash
 # Clone the repository
