@@ -21,4 +21,4 @@ env/
 .streamlit/
 
 # Optional: Ignore data files if they are generated or sensitive
-Data/*.json
+#Data/*.json
