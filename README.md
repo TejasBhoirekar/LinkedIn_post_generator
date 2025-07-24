@@ -2,8 +2,6 @@
 
 A simple, clean, and fast **Streamlit** web app that helps generate thoughtful and meaningful LinkedIn posts on topics like **Self Improvement, Leadership, Career, Patriarchy**, and more — powered by **Llama 3.2 (open-source)**, **Langchain**, and **Groq Cloud**.
 
-![App Screenshot](C749FD79-F7A0-4236-9062-D6DE01464C1A.jpeg)
-
 ---
 
 ## 🚀 Features
