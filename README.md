@@ -13,6 +13,8 @@ A simple, clean, and fast **Streamlit** web app that helps generate thoughtful a
 
 ---
 
+![image alt](https://github.com/TejasBhoirekar/LinkedIn_post_generator/blob/main/working.jpeg?raw=true)
+
 ## Tech Stack
 
 - Python
