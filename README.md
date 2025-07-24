@@ -4,7 +4,7 @@ A simple, clean, and fast **Streamlit** web app that helps generate thoughtful a
 
 ---
 
-## 🚀 Features
+## Features
 
 - Generate long-form or short-form posts on popular topics.
 - Powered by open-source LLM **Llama 3.2** via Groq Cloud.
